@@ -16,5 +16,11 @@
 
 
 # 引用
-
+@misc{zhang2025intelligence,
+  title={Intelligence of Fusion: Deep Learning-Based Image Fusion (Chinese Monograph)},
+  author={Zhang, Xingchen},
+  year={2025},
+  publisher={OpenReview},
+  url={https://openreview.net/forum?id=YKorIXQPRd}
+}
 
