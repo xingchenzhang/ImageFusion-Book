@@ -7,6 +7,7 @@
 注：我会持续更新本书，所以建议大家下载最近版本来阅读。
 
 ## 更新记录
+* **2025-11-19** 删除了第十章关于编程框架统计数量的图片（因为与第五章的图片重复）；改正了5.8.12中对图片5.16的引用
 * **2025-10-23** 改正了前言中对本书第三部分的描述；修改了英文摘要；改正了一些错别字（14.5; 15.3; 附录C）
 * **2025-10-22** 修改了文字、增加了一些参考文献和图片
 * **2025-10-21** 修改了一些参考文献、删除了部分图片
@@ -22,7 +23,7 @@
  
 ```bibtex
 @misc{zhang2025intelligence,
-  title={Intelligence of Fusion: Deep Learning-Based Image Fusion (Chinese Monograph)},
+  title={Intelligence of Fusion: Deep Learning-Based Image Fusion},
   author={Zhang, Xingchen},
   year={2025},
   publisher={OpenReview},
