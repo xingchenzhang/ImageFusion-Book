@@ -24,9 +24,7 @@
 ```bibtex
 @book{zhang2025intelligence,
   author       = {Zhang, Xingchen},
-  title        = {Intelligence of Fusion: Deep Learning-Based Image
-                   Fusion
-                  },
+  title        = {Intelligence of Fusion: Deep Learning-Based Image Fusion},
   publisher    = {Zenodo},
   year         = 2025,
   month        = jun,
